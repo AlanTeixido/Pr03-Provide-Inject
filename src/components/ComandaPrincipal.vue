@@ -1,7 +1,7 @@
 <template>
   <div>
-    <h1>The Snazzy Burger</h1>
-    <input v-model="nom_comanda" placeholder="The Snazzy Burger" />
+    <h1>AlanTeixi's Burger</h1>
+    <input v-model="nom_comanda" placeholder="AlanTeixi's Burger" />
     <button @click="placeOrder">Place Order</button>
 
     <!-- Botó per canviar de moneda -->
